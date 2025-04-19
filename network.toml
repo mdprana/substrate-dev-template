@@ -1,5 +1,7 @@
+[settings]
+timeout = 120
+
 [relaychain]
-chain = "paseo-local"
 
 [[relaychain.nodes]]
 name = "alice"
@@ -10,8 +12,7 @@ name = "bob"
 validator = true
 
 [[parachains]]
-id = 2000
-default_command = "./target/release/parachain-template-node"
+id = 100
 
-[[parachains.collators]]
-name = "collator-01"
+[parachains.collator]
+name = "collator01"

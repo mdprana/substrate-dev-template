@@ -13,3 +13,11 @@
 
 # Binaries
 **/bin/
+
+**/polkadot
+**/polkadot-execute-worker
+**/polkadot-parachain
+**/polkadot-prepare-worker
+**/zombienet-linux
+**/zombienet-macos
+**/zombienet-windows
