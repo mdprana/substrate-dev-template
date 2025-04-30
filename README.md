@@ -195,6 +195,10 @@ For more information on the Polkadot.js API and associated libraries, check out:
 - [Polkadot.js Documentation](https://polkadot.js.org/docs/)
 - [Polkadot Wiki](https://wiki.polkadot.network/)
 
+## 🎥 Youtube Video
+[![Video Demo](https://img.youtube.com/vi/GfL2KlXOzaA/maxresdefault.jpg)](https://youtu.be/GfL2KlXOzaA)
+Source: https://youtu.be/GfL2KlXOzaA
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
