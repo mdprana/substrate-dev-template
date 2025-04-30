@@ -2,7 +2,9 @@
 
 <div align="center">
 
-![Polkadot Parachain Interface Logo](https://github.com/user-attachments/assets/88a8d34f-604c-45b5-9c92-cf14464a7a87)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/88a8d34f-604c-45b5-9c92-cf14464a7a87" alt="Polkadot Parachain Interface Logo" width="200" />
+</div>
 
 A modern, responsive interface for interacting with blockchain
 
